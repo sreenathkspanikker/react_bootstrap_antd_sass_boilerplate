@@ -1,7 +1,9 @@
 ## About 
 
 The project bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
-it's for the startes of frontend javascript frameworks, Make them feel easy.
+
+The main idea is to build a clean and awesome frontend application using react.js with the help of React Bootstrap, Antd, sass.
+You can easly develope a large scale application using these package.
 
 ## Technologies used 
 
