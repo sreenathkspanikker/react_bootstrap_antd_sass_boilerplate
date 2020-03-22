@@ -1,3 +1,5 @@
+(Github_Banner-1.jpg "Guide to app architecture")
+
 ## About 
 
 The project bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
