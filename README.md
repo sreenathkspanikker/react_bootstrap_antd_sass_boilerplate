@@ -1,4 +1,4 @@
-(Github_Banner-1.jpg "Guide to app architecture")
+(./Github_Banner-1.jpg "Guide to app architecture")
 
 ## About 
 
